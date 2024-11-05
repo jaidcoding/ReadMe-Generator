@@ -27,6 +27,8 @@ I learened how to use JavaScript, Node, and TypeScript to apply them into buildi
    
 ## Usage
 
+Here is a link to follow for a demo video: https://youtu.be/F2BrcQUcXws
+
 1. Answer the prompts provided by the CLI. These prompts will ask for details about your project such as the title, description, installation steps, usage instructions, credits, license, badges, features, contribution guidelines, and tests.
 2. Once all prompts are answered, the application will generate a `README.md` file in the project directory with the provided information.
 
